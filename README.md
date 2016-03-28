@@ -11,6 +11,7 @@ This is the REST API for Halal Data project. It is written by using [Koa JS fram
 ```
 
 param: query - name of the venue or by location name
+
 method: GET
 
 sample results:
@@ -49,6 +50,7 @@ sample results:
 ```
 
 param: none
+
 method: GET
 
 Sample results:
@@ -78,6 +80,7 @@ Sample results:
 ```
 
 param: none
+
 method: GET
 
 Sample results:
@@ -110,6 +113,7 @@ Sample results:
 ```
 
 param: none
+
 method: GET
 
 Sample results:

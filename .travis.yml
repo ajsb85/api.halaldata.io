@@ -11,6 +11,8 @@ addons:
     packages:
     - g++-4.8
 before_install:
-- bash _bash_scripts/install.sh 
+- openssl aes-256-cbc -K $encrypted_280961f95bfb_key -iv $encrypted_280961f95bfb_iv
+  -in deploy-key.enc -out deploy-key -d
+- bash _bash_scripts/install.sh
 after_success:
 - bash _bash_scripts/deploy.sh

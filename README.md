@@ -1,5 +1,7 @@
 # Halal Data API
 
+[![Build Status](https://travis-ci.org/HalalData/api.svg?branch=master)](https://travis-ci.org/HalalData/api)
+
 This is the REST API for Halal Data project. It is written by using [Koa JS framework](http://koajs.com "Koa JS framework").
 
 ## The planned API endpoints

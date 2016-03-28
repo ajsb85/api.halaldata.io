@@ -1,0 +1,24 @@
+{
+  "name": "halal-data-api",
+  "version": "0.0.1",
+  "description": "API for Halal Data platform",
+  "author": "Asep Bagja Priandana <asep@asep.co>",
+  "contributors": [
+    {
+      "name": "Alexander Salas",
+      "email": "a.salas@ieee.org"  
+    }
+  ],
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HalalData/api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HalalData/api/issues"
+  },
+  "dependencies": {
+    "koa": "^1.2.0" 
+  },
+  "license": "GPL-2.0"
+}

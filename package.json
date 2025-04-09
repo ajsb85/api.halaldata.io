@@ -18,7 +18,7 @@
     "url": "https://github.com/HalalData/api/issues"
   },
   "dependencies": {
-    "koa": "^1.2.0",
+    "koa": "^2.16.1",
     "swagger-koa": "^1.0.8"
   },
   "license": "GPL-2.0"
